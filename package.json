@@ -42,6 +42,7 @@
     "jsonwebtoken": "^8.5.1",
     "mailchimp-v3": "^1.0.5",
     "mailgun-js": "^0.22.0",
+    "mern-ecommerce": "file:",
     "mongoose": "^5.5.11",
     "mongoose-slug-generator": "^1.0.4",
     "passport": "^0.4.0",
